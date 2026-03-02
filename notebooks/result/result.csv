@@ -1,6 +1,6 @@
-city,product_name,revenue_sum
-Berlin,Ring TISHINA,35.0
-Berlin,Ring POROG,30.0
-Hamburg,Ring VOLA,100.0
-Munich,Ring POROG,90.0
-Munich,Ring TISHINA,7.0
+city,product_id,product_name,orders_cnt,qty_sum,revenue_sum
+Berlin,p3,Ring TISHINA,1,5,35.0
+Berlin,p2,Ring POROG,1,1,30.0
+Hamburg,p1,Ring VOLA,1,10,100.0
+Munich,p2,Ring POROG,1,3,90.0
+Munich,p3,Ring TISHINA,1,1,7.0
